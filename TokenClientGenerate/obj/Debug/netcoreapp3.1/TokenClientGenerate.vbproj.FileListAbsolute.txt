@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\TokenClientGenerate\TokenClientGenerate\bin\Debug\netcoreapp3.1\TokenClientGenerate.exe
+C:\Users\Administrator\source\repos\TokenClientGenerate\TokenClientGenerate\obj\Debug\netcoreapp3.1\TokenClientGenerate.vbprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\TokenClientGenerate\TokenClientGenerate\obj\Debug\netcoreapp3.1\TokenClientGenerate.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TokenClientGenerate\TokenClientGenerate\obj\Debug\netcoreapp3.1\TokenClientGenerate.AssemblyInfo.vb
+C:\Users\Administrator\source\repos\TokenClientGenerate\TokenClientGenerate\bin\Debug\netcoreapp3.1\TokenClientGenerate.deps.json
+C:\Users\Administrator\source\repos\TokenClientGenerate\TokenClientGenerate\bin\Debug\netcoreapp3.1\TokenClientGenerate.runtimeconfig.json
+C:\Users\Administrator\source\repos\TokenClientGenerate\TokenClientGenerate\bin\Debug\netcoreapp3.1\TokenClientGenerate.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\TokenClientGenerate\TokenClientGenerate\bin\Debug\netcoreapp3.1\TokenClientGenerate.dll
+C:\Users\Administrator\source\repos\TokenClientGenerate\TokenClientGenerate\bin\Debug\netcoreapp3.1\TokenClientGenerate.pdb
+C:\Users\Administrator\source\repos\TokenClientGenerate\TokenClientGenerate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Administrator\source\repos\TokenClientGenerate\TokenClientGenerate\obj\Debug\netcoreapp3.1\TokenClientGenerate.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TokenClientGenerate\TokenClientGenerate\obj\Debug\netcoreapp3.1\TokenClientGenerate.vbproj.CopyComplete
+C:\Users\Administrator\source\repos\TokenClientGenerate\TokenClientGenerate\obj\Debug\netcoreapp3.1\TokenClientGenerate.dll
+C:\Users\Administrator\source\repos\TokenClientGenerate\TokenClientGenerate\obj\Debug\netcoreapp3.1\TokenClientGenerate.pdb
+C:\Users\Administrator\source\repos\TokenClientGenerate\TokenClientGenerate\obj\Debug\netcoreapp3.1\TokenClientGenerate.genruntimeconfig.cache
